@@ -1,0 +1,26 @@
+{
+  "name": "katastestedwithjest",
+  "version": "1.0.0",
+  "description": "Katas tested with jest",
+  "main": "index.js",
+  "directories": {
+    "test": "jest"
+  },
+  "scripts": {
+    "start": "nodemon --exec babel-node src/index.js",
+    "test": "jest --config ./jest.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Babakbigdeli/KatasTestedWithJest.git"
+  },
+  "author": "Babak Bigdeli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Babakbigdeli/KatasTestedWithJest/issues"
+  },
+  "homepage": "https://github.com/Babakbigdeli/KatasTestedWithJest#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
