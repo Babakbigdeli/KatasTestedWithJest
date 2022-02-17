@@ -1,6 +1,6 @@
 # KatasTestedWithJest
 
-Here Im gonna put the CodeWars Katas I do as part of my core JavaScrips practices. They gonna be unit tested in NodeJs environment using Jest. 
+Here Im gonna put the CodeWars Katas I do as part of my core JavaScrip practices. They gonna be unit tested in NodeJs environment using Jest. 
 
 
 
